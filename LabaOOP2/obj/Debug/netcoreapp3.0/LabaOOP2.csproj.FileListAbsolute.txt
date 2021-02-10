@@ -1,0 +1,11 @@
+F:\ProjectsC#\LabaOOP2\LabaOOP2\bin\Debug\netcoreapp3.0\LabaOOP2.exe
+F:\ProjectsC#\LabaOOP2\LabaOOP2\bin\Debug\netcoreapp3.0\LabaOOP2.deps.json
+F:\ProjectsC#\LabaOOP2\LabaOOP2\bin\Debug\netcoreapp3.0\LabaOOP2.runtimeconfig.json
+F:\ProjectsC#\LabaOOP2\LabaOOP2\bin\Debug\netcoreapp3.0\LabaOOP2.runtimeconfig.dev.json
+F:\ProjectsC#\LabaOOP2\LabaOOP2\bin\Debug\netcoreapp3.0\LabaOOP2.dll
+F:\ProjectsC#\LabaOOP2\LabaOOP2\bin\Debug\netcoreapp3.0\LabaOOP2.pdb
+F:\ProjectsC#\LabaOOP2\LabaOOP2\obj\Debug\netcoreapp3.0\LabaOOP2.AssemblyInfoInputs.cache
+F:\ProjectsC#\LabaOOP2\LabaOOP2\obj\Debug\netcoreapp3.0\LabaOOP2.AssemblyInfo.cs
+F:\ProjectsC#\LabaOOP2\LabaOOP2\obj\Debug\netcoreapp3.0\LabaOOP2.dll
+F:\ProjectsC#\LabaOOP2\LabaOOP2\obj\Debug\netcoreapp3.0\LabaOOP2.pdb
+F:\ProjectsC#\LabaOOP2\LabaOOP2\obj\Debug\netcoreapp3.0\LabaOOP2.csprojAssemblyReference.cache

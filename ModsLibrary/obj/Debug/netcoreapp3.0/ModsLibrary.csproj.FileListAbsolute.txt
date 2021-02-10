@@ -1,0 +1,12 @@
+F:\ProjectsC#\LabaOOP2\ModsLibrary\bin\Debug\netcoreapp3.0\ModsLibrary.deps.json
+F:\ProjectsC#\LabaOOP2\ModsLibrary\bin\Debug\netcoreapp3.0\ModsLibrary.dll
+F:\ProjectsC#\LabaOOP2\ModsLibrary\bin\Debug\netcoreapp3.0\ModsLibrary.pdb
+F:\ProjectsC#\LabaOOP2\ModsLibrary\obj\Debug\netcoreapp3.0\ModsLibrary.csprojAssemblyReference.cache
+F:\ProjectsC#\LabaOOP2\ModsLibrary\obj\Debug\netcoreapp3.0\ModsLibrary.AssemblyInfoInputs.cache
+F:\ProjectsC#\LabaOOP2\ModsLibrary\obj\Debug\netcoreapp3.0\ModsLibrary.AssemblyInfo.cs
+F:\ProjectsC#\LabaOOP2\ModsLibrary\obj\Debug\netcoreapp3.0\ModsLibrary.dll
+F:\ProjectsC#\LabaOOP2\ModsLibrary\obj\Debug\netcoreapp3.0\ModsLibrary.pdb
+F:\ProjectsC#\LabaOOP2\ModsLibrary\bin\Debug\netcoreapp3.0\LabaOOP2.exe
+F:\ProjectsC#\LabaOOP2\ModsLibrary\bin\Debug\netcoreapp3.0\LabaOOP2.dll
+F:\ProjectsC#\LabaOOP2\ModsLibrary\bin\Debug\netcoreapp3.0\LabaOOP2.pdb
+F:\ProjectsC#\LabaOOP2\ModsLibrary\obj\Debug\netcoreapp3.0\ModsLibrary.csproj.CopyComplete
